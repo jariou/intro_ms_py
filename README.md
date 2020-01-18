@@ -4,7 +4,7 @@ Introduction to Python following Microsoft YouTube lessons
 
 ## Important Links
 
-- [Online Curse](https://docs.microsoft.com/en-us/learn/modules/intro-to-python/)
+- [Online Course](https://docs.microsoft.com/en-us/learn/modules/intro-to-python/)
 
 - [Sample Code](https://github.com/microsoft/c9-python-getting-started)
 
