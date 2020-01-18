@@ -10,4 +10,9 @@ Introduction to Python following Microsoft YouTube lessons
 
 - [Course on Channel 9](https://aka.ms/PythonBeginnerSeries)
 
-Just a test
+# My VSCode Shortcuts
+
+- Git:commit **Ctrl + Enter**
+- Git:push **Ctrl + Alt + Shift + Enter**
+- Toggle Bar **Ctrl + b**
+
