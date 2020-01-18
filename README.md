@@ -8,4 +8,4 @@ Introduction to Python following Microsoft YouTube lessons
 
 - [Sample Code](https://github.com/microsoft/c9-python-getting-started)
 
--[Course on Channel 9](https://aka.ms/PythonBeginnerSeries)
+- [Course on Channel 9](https://aka.ms/PythonBeginnerSeries)
